@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "timeZone": -4,
+        "watchName": "Нью-Йорк,"
+    },
+    {
+        "id": "2",
+        "timeZone": 3,
+        "watchName": "Москва"
+    },
+    {
+        "id": "3",
+        "timeZone": 0,
+        "watchName": "Лондон"
+    }
+]
